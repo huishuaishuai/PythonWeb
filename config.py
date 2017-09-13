@@ -4,4 +4,5 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 
 
 class Config:
-    pass
+    def __init__(self):
+        pass
